@@ -1,5 +1,3 @@
-# Project-khan
-khan project
 <!DOCTYPE html>
 <html>
     <head>
